@@ -1,0 +1,7 @@
+IP privada VM: 10.0.2.15
+IP publica VM: 191.95.169.137
+
+Direccion MAC VM: 02:42:2d:60:e3:54
+
+La IP privada es diferente de la maquina host. La IP privada es diferente porque usa la red de VirtualVox.
+La IP publica si es la misma en ambas maquinas.
